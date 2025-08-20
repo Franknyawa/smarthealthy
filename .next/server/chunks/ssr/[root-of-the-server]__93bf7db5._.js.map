@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/PC/Desktop/smarthealthy/app/page.tsx"],"sourcesContent":["import React from 'react';\n\nconst Home = () => {\n  return (\n    <div className='p-10' bg-red-300 bg-shop-light-pink>\n      <h2 className='text-xl font-semibold'>Home</h2>\n      <p>Lorem ipsum dolor sit amet.</p>\n    </div>\n  );\n}\n\nexport default Home;\n"],"names":[],"mappings":";;;;;AAEA,MAAM,OAAO;IACX,qBACE,8OAAC;QAAI,WAAU;QAAO,YAAU;QAAC,oBAAkB;;0BACjD,8OAAC;gBAAG,WAAU;0BAAwB;;;;;;0BACtC,8OAAC;0BAAE;;;;;;;;;;;;AAGT;uCAEe","debugId":null}}]
+}
